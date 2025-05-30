@@ -1,6 +1,0 @@
-2025/05/29-14:20:02.159 2684 Creating DB /home/amhillary/.config/google-chrome/Default/IndexedDB/https_www.streamlinehq.com_0.indexeddb.leveldb since it was missing.
-2025/05/29-14:20:02.276 2684 Reusing MANIFEST /home/amhillary/.config/google-chrome/Default/IndexedDB/https_www.streamlinehq.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/05/29-14:20:02.897 2685 Level-0 table #5: started
-2025/05/29-14:20:02.989 2685 Level-0 table #5: 2078 bytes OK
-2025/05/29-14:20:03.040 2685 Delete type=0 #3
-2025/05/29-14:20:03.040 2684 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,6 +1,0 @@
-2025/05/29-16:15:07.004 722 Reusing MANIFEST /home/amhillary/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/05/29-16:15:07.068 722 Recovering log #63
-2025/05/29-16:15:07.415 722 Reusing old log /home/amhillary/.config/google-chrome/Default/Sync Data/LevelDB/000063.log 
-2025/05/29-16:26:42.966 723 Level-0 table #67: started
-2025/05/29-16:26:43.012 723 Level-0 table #67: 105239 bytes OK
-2025/05/29-16:26:43.044 723 Delete type=0 #63

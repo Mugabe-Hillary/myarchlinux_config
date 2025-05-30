@@ -1,6 +1,0 @@
-2025/05/28-18:12:38.275 5eb Creating DB /home/amhillary/.config/google-chrome/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb since it was missing.
-2025/05/28-18:12:38.376 5eb Reusing MANIFEST /home/amhillary/.config/google-chrome/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/05/28-18:12:38.585 5f9 Level-0 table #5: started
-2025/05/28-18:12:38.678 5f9 Level-0 table #5: 760 bytes OK
-2025/05/28-18:12:38.778 5f9 Delete type=0 #3
-2025/05/28-18:12:38.778 5ec Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,1 +1,0 @@
-/*! (C) Copyright 2020 LanguageTooler GmbH. All rights reserved. */
