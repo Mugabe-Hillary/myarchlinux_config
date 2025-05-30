@@ -1,0 +1,30 @@
+3:39:52 Tab8 FinishNav433
+3:39:59 Browser1 Switch from Tab8 to Tab14 at 4
+3:39:59 SwitchTab_Click
+3:40:01 OmniboxInputInProgress
+3:40:03 Widget Closed: RoundedOmniboxResultsFrameWindow
+3:40:03 Tab14 StartNav434 #typed
+3:40:03 Tab14 FinishNav434 ERR_ABORTED
+3:40:03 LoadURL
+3:40:03 Tab14 StartNav435 #typed
+3:40:04 Widget Closed: RoundedOmniboxResultsFrameWindow
+3:40:04 Tab14 FinishNav435
+3:40:04 Tab14 StartNav436 #renderer-script #link
+3:40:04 Tab14 FinishNav436
+3:40:05 Tab14 StartNav437 #renderer-script #auto_subframe
+3:40:05 Tab14 FinishNav437
+3:40:05 Tab14 StartNav438 #renderer-script #auto_subframe
+3:40:05 Tab14 FinishNav438
+3:40:05 Tab14 PageLoad #failure
+3:40:05 Tab14 PageLoad
+3:40:05 Tab14 PageLoad
+3:40:06 Tab14 StartNav439 #renderer-user #link
+3:40:06 Tab14 FinishNav439
+3:40:13 TextSelectionChanged
+3:40:13 TextSelectionChanged
+3:40:13 TextSelectionChanged
+3:40:13 Widget Closed: StatusBubble
+3:40:14 TextSelectionChanged
+3:41:36 Browser1 Switch from Tab14 to Tab8 at 2
+3:41:36 SwitchTab_Click
+3:41:46 Widget Closed: StatusBubble

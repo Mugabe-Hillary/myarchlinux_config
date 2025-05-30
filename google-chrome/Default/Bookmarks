@@ -1,0 +1,532 @@
+{
+   "checksum": "ff1c5651c418f18b0113d3ce66669f8a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13385624438032672",
+               "date_last_used": "0",
+               "guid": "8df55285-e51e-486e-bd8c-f03d51233c33",
+               "id": "42",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Shape Divider App",
+               "type": "url",
+               "url": "https://www.shapedivider.app/"
+            }, {
+               "date_added": "13385624515151501",
+               "date_last_used": "0",
+               "guid": "3c71d905-7478-4175-bf87-f7f6efd91d94",
+               "id": "43",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Pricing | Haikei",
+               "type": "url",
+               "url": "https://haikei.app/pricing/"
+            }, {
+               "date_added": "13386282896916105",
+               "date_last_used": "0",
+               "guid": "010bbb4b-fae6-44c0-b1c8-09b9644ee3ba",
+               "id": "44",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS",
+               "type": "url",
+               "url": "https://github.com/bradtraversy/50projects50days?tab=readme-ov-file"
+            }, {
+               "date_added": "13388694345757025",
+               "date_last_used": "13388694361785818",
+               "guid": "dbee27dd-900e-4a51-8657-155d17494312",
+               "id": "45",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "netLabs!UG Industrial Training Application Form",
+               "type": "url",
+               "url": "https://docs.google.com/forms/d/e/1FAIpQLSeGVvJ9U0w59fVPaTmNOEakDnZmMaTh5ELtKHVQ05jd-4czWQ/viewform"
+            }, {
+               "date_added": "13389720247007438",
+               "date_last_used": "0",
+               "guid": "4bacf589-5b9a-4708-8e60-c46a288b029a",
+               "id": "46",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "AFTA Pre-Reading Material",
+               "type": "url",
+               "url": "https://directed.notion.site/AFTA-Pre-Reading-Material-1d052c0383798052b548f33195862690"
+            }, {
+               "date_added": "13390752981817188",
+               "date_last_used": "0",
+               "guid": "9c10a9af-583f-4f1c-b2e0-c7c38a4c0c76",
+               "id": "47",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Design Faster Using AI",
+               "type": "url",
+               "url": "https://logiaweb.notion.site/Design-Faster-Using-AI-1e7046c4c6dc806c856fda902fbf773f"
+            } ],
+            "date_added": "13385624430916612",
+            "date_last_used": "0",
+            "date_modified": "13390752981817188",
+            "guid": "209af427-d8b0-4447-85dc-04812d833eb7",
+            "id": "41",
+            "name": "Web Dev",
+            "type": "folder"
+         }, {
+            "date_added": "13376429963812270",
+            "date_last_used": "13378746505157291",
+            "guid": "4a6d43cb-0527-4259-8a62-891f8cb8481b",
+            "id": "48",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "1.2. Getting Started — Problem Solving with Algorithms and Data Structures 3rd edition",
+            "type": "url",
+            "url": "https://runestone.academy/ns/books/published/pythonds3/Introduction/GettingStarted.html"
+         }, {
+            "date_added": "13385119549297917",
+            "date_last_used": "0",
+            "guid": "7de62106-34e6-4f5d-b46f-3da3c75054e9",
+            "id": "49",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home",
+            "type": "url",
+            "url": "https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1?utm_medium=email&utm_source=gamma&utm_campaign=learn-genaiq1-2025"
+         }, {
+            "date_added": "13390253845553511",
+            "date_last_used": "0",
+            "guid": "0a5cd41d-8bc7-4fc8-965e-836f6653b14e",
+            "id": "50",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Introduction · Crafting Interpreters",
+            "type": "url",
+            "url": "https://craftinginterpreters.com/introduction.html#why-learn-this-stuff"
+         } ],
+         "date_added": "13392746990873914",
+         "date_last_used": "0",
+         "date_modified": "13390253845553511",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13368976940212920",
+            "date_last_used": "0",
+            "guid": "ef9c2ff7-45b1-4033-93e7-712dd56922ae",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Activate Windows 11 Pro free · GitHub",
+            "type": "url",
+            "url": "https://gist.github.com/kimgiftww/6d6242e35ef6e3baa3a6e4fb8f386d0b"
+         }, {
+            "date_added": "13387575589599476",
+            "date_last_used": "0",
+            "guid": "a6bb8b2c-29e0-49c0-9510-cd8412a5398d",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Industry 4.0 Enterprise Development Innovation Catalyst Internship Program Application",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSdXXzcLE8CRnhA1OuNBv6wzvjjQ2km-Ha5jwOgPP9CuEweo_A/viewform?pli=1"
+         } ],
+         "date_added": "13392746990873917",
+         "date_last_used": "0",
+         "date_modified": "13387575589599476",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13278462978796071",
+            "date_last_used": "0",
+            "guid": "d17533bb-670c-48c7-83e1-29e79d5553e7",
+            "id": "5",
+            "name": "How to Learn Programming – The Guide I Wish I Had When I Started Learning to Code",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/news/how-to-learn-programming/amp/"
+         }, {
+            "date_added": "13301682135871966",
+            "date_last_used": "0",
+            "guid": "923f5589-0ba2-4b28-9bfd-1b2f01920112",
+            "id": "6",
+            "name": "C programming Exercises, Practice, Solution - w3resource",
+            "type": "url",
+            "url": "https://www.w3resource.com/c-programming-exercises/"
+         }, {
+            "date_added": "13304596115753098",
+            "date_last_used": "0",
+            "guid": "f4800972-ce30-483b-8de1-7af5190de3ff",
+            "id": "7",
+            "name": "Verification of Truth Tables of Logic Gates Using Integrated Circuits - Physics Practical Experiment",
+            "type": "url",
+            "url": "https://www.brainkart.com/article/Verification-of-Truth-Tables-of-Logic-Gates-Using-Integrated-Circuits_38561/"
+         }, {
+            "date_added": "13321867455918611",
+            "date_last_used": "0",
+            "guid": "ff8ff40c-443f-4f38-a532-5109b61c7871",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "https://www.google.com/amp/s/amp.theguardian.com/books/2022/dec/03/the-best-books-of-2022",
+            "type": "url",
+            "url": "https://www.google.com/amp/s/amp.theguardian.com/books/2022/dec/03/the-best-books-of-2022"
+         }, {
+            "date_added": "13322172340408978",
+            "date_last_used": "0",
+            "guid": "0a696853-e19a-4ed6-a313-55cc4a9cf13c",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Untitled - JustPaste",
+            "type": "url",
+            "url": "https://justpaste.top/qlcurzqzy8"
+         }, {
+            "date_added": "13323484833072706",
+            "date_last_used": "0",
+            "guid": "ef1bb0aa-dbc9-4d1c-94ae-e68f5a7a8630",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Learn Programming – The Guide I Wish I Had When I Started Learning to Code",
+            "type": "url",
+            "url": "https://www.google.com/amp/s/www.freecodecamp.org/news/how-to-learn-programming/amp/"
+         }, {
+            "date_added": "13323653352870298",
+            "date_last_used": "0",
+            "guid": "5f5a75a7-de60-4b97-9594-aab8aa5cde4e",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YT1S: Easy Youtube Downloader | Online Youtube Video Converter in few seconds.",
+            "type": "url",
+            "url": "https://yt1s.de/?l=en"
+         }, {
+            "date_added": "13327288927658120",
+            "date_last_used": "0",
+            "guid": "72f79cc6-4243-4541-b74d-a0bfa4c1350c",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube Video Downloader - SSYouTube.com",
+            "type": "url",
+            "url": "https://ssyoutube.com/en75/youtube-video-downloader"
+         }, {
+            "date_added": "13329467039445306",
+            "date_last_used": "0",
+            "guid": "e02c647b-fafa-4a50-8644-10bfb3c5a2c3",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Data Science With Python Core Skills (Learning Path) – Real Python",
+            "type": "url",
+            "url": "https://realpython.com/learning-paths/data-science-python-core-skills/"
+         }, {
+            "date_added": "13330354150570164",
+            "date_last_used": "0",
+            "guid": "d2aa8ed4-c758-4848-9f4a-025ffdfbb50d",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MEGA",
+            "type": "url",
+            "url": "https://mega.nz/folder/rnBngJga#qXsHz1taU0igBySvO9t94w"
+         }, {
+            "date_added": "13330409962915918",
+            "date_last_used": "0",
+            "guid": "7a47bc56-0f44-4ac6-8847-7fae55dbd071",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "https://mega.nz/folder/CJxVRLgA#GCMngA08ukSDoGmbHtFp9g",
+            "type": "url",
+            "url": "https://mega.nz/folder/CJxVRLgA#GCMngA08ukSDoGmbHtFp9g"
+         }, {
+            "date_added": "13330546460326402",
+            "date_last_used": "0",
+            "guid": "162e47ae-2295-476e-ad07-4f91f7b5b0a9",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Code Generator | CodePal - The Ultimate Coding Companion",
+            "type": "url",
+            "url": "https://codepal.ai/#"
+         }, {
+            "date_added": "13331045085362918",
+            "date_last_used": "0",
+            "guid": "63bf7866-b7d0-47cc-b65e-434e9de656d0",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Introduction to Machine Learning | MIT Open Learning Library",
+            "type": "url",
+            "url": "https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about"
+         }, {
+            "date_added": "13332618648735240",
+            "date_last_used": "13374357028865783",
+            "guid": "c3d46cc0-33ae-4f7b-b894-f66ac155bc72",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Data Analysis with Python Certification | freeCodeCamp.org",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/"
+         }, {
+            "date_added": "13334760885918976",
+            "date_last_used": "0",
+            "guid": "72a8a353-eb62-4fae-ad9d-c3e4a1b01c16",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "1,650+ Resume Samples to Get Inspired in 2023 | Kickresume",
+            "type": "url",
+            "url": "https://www.kickresume.com/en/help-center/resume-samples/"
+         }, {
+            "date_added": "13334761146841652",
+            "date_last_used": "0",
+            "guid": "e8d626b8-1bae-4b5c-bb71-a10371f69969",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Academic Writing from Paragraph to Essay - PDF Drive",
+            "type": "url",
+            "url": "https://www.pdfdrive.com/academic-writing-from-paragraph-to-essay-e12836704.html"
+         }, {
+            "date_added": "13335865632622771",
+            "date_last_used": "0",
+            "guid": "559aa370-ac48-4a69-b72d-ae5809bac17d",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Top 10 Best Programming Languages for Data Science",
+            "type": "url",
+            "url": "https://www.projectpro.io/article/top-10-best-programming-languages-for-data-science/167"
+         }, {
+            "date_added": "13337501263935329",
+            "date_last_used": "0",
+            "guid": "ab0770f8-fbba-4f90-ac5b-5fa5bb4b9ca6",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Data Science for Beginners",
+            "type": "url",
+            "url": "https://microsoft.github.io/Data-Science-For-Beginners/#/"
+         }, {
+            "date_added": "13339628147594787",
+            "date_last_used": "0",
+            "guid": "886f5cc6-6f20-4d10-9d51-3f395d4c28d6",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PSG vs Borussia Dortmund en Direct sur Koora Live",
+            "type": "url",
+            "url": "https://koralivelive.com/psg-vs-borussia-dortmund-en-direct-sur-koora-live"
+         }, {
+            "date_added": "13341085094236232",
+            "date_last_used": "0",
+            "guid": "d3cf5b00-f0ec-44d9-bb62-9f05d0eb61be",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New tab",
+            "type": "url",
+            "url": "https://www.blowingideas.com/windows-11-product-keys/"
+         }, {
+            "date_added": "13342025920549145",
+            "date_last_used": "13342025940517163",
+            "guid": "d4dffe68-4491-4978-9f46-b5985064f71d",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CourseFiles - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/mobile/folders/15U8WjVKbYXaq6N6Wb_6bCr9QZ1DwCkAO"
+         }, {
+            "date_added": "13342256382831966",
+            "date_last_used": "0",
+            "guid": "a3f0435f-a9d6-44b1-8185-8dd23ca8c890",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NotebookLM",
+            "type": "url",
+            "url": "https://notebooklm.google.com/notebook/ef843319-fb4b-4978-a97f-7749a9704982"
+         }, {
+            "date_added": "13352581023671132",
+            "date_last_used": "0",
+            "guid": "99ce9f20-5d50-4bfd-b484-62bb456bd0f5",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Litigating at the African Commission on Human and Peoples’ Rights | eReader",
+            "type": "url",
+            "url": "https://www.mediadefence.org/ereader/publications/advanced-modules-on-digital-rights-and-freedom-of-expression-online/module-6-litigating-digital-rights-cases-in-africa/litigating-at-the-african-commission-on-human-and-peoples-rights/"
+         }, {
+            "date_added": "13357863626363673",
+            "date_last_used": "0",
+            "guid": "85c89c78-9c32-4597-97f1-7aab8860d4d6",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Best Research topics in electronics and electrical engineering",
+            "type": "url",
+            "url": "https://www.phdassistance.com/topic-selection/research-topics-in-electronics-and-electrical-engineering/"
+         }, {
+            "date_added": "13357863957028120",
+            "date_last_used": "0",
+            "guid": "7def5ae9-a9e2-487f-a41a-f6ca19f1d5be",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Electrical Engineering Books and Book Reviews - Afribary",
+            "type": "url",
+            "url": "https://afribary.com/works/fields/engineering/sub-fields/electrical-engineering"
+         }, {
+            "date_added": "13370506788438302",
+            "date_last_used": "0",
+            "guid": "83edbad3-ebf2-448d-973b-99745ee1c1ca",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "yzhao062/anomaly-detection-resources: Anomaly detection related books, papers, videos, and toolboxes",
+            "type": "url",
+            "url": "https://github.com/yzhao062/anomaly-detection-resources?tab=readme-ov-file"
+         }, {
+            "date_added": "13371025783079051",
+            "date_last_used": "13371047978319369",
+            "guid": "03ea9c4c-62e6-4ec5-8463-e7a3a85a7111",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Lacuna Malaria Datasets - Makerere AI Lab Lacuna Malaria Dataverse",
+            "type": "url",
+            "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VEADSE"
+         }, {
+            "date_added": "13371200479578753",
+            "date_last_used": "13371208957164633",
+            "guid": "4f70eb30-34d3-4910-931a-cc1c7f24f0c2",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Simple Guide to Hyperparameter Tuning in Neural Networks | by Matthew Stewart, PhD | Towards Data Science",
+            "type": "url",
+            "url": "https://towardsdatascience.com/simple-guide-to-hyperparameter-tuning-in-neural-networks-3fe03dad8594"
+         }, {
+            "date_added": "13371539163668694",
+            "date_last_used": "0",
+            "guid": "e031bffc-ce39-4ecd-8905-ec0734ca00c9",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "6.3. Preprocessing data — scikit-learn 1.5.2 documentation",
+            "type": "url",
+            "url": "https://scikit-learn.org/stable/modules/preprocessing.html"
+         }, {
+            "date_added": "13371718408088087",
+            "date_last_used": "0",
+            "guid": "d9096560-ac09-41bb-9e8e-3db13c416f16",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Supporting Malaria Diagnosis Using Deep Learning and Data Augmentation - PMC",
+            "type": "url",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11012121/"
+         }, {
+            "date_added": "13371720032481799",
+            "date_last_used": "0",
+            "guid": "dd5ae18d-c62c-4ffa-bbe1-9a84b3ddb46b",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "K-Fold Cross Validation - Ultralytics YOLO Docs",
+            "type": "url",
+            "url": "https://docs.ultralytics.com/guides/kfold-cross-validation/?h=cross#save-records-optional"
+         }, {
+            "date_added": "13373008606848079",
+            "date_last_used": "13373013057551072",
+            "guid": "8c3924fd-796c-4b21-979a-d75fc33dcd7b",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MIT Deep Learning 6.S191",
+            "type": "url",
+            "url": "http://introtodeeplearning.com/"
+         }, {
+            "date_added": "13382908943059488",
+            "date_last_used": "13382908951227366",
+            "guid": "4331cd8b-ffdc-436c-9aa4-401a95534e70",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Invincible.S02.720p.10bit.MoviesMod.org.zip",
+            "type": "url",
+            "url": "https://driveseed.org/zfile/MR6YkZkxZsus34hecdEJ"
+         }, {
+            "date_added": "13391416375023682",
+            "date_last_used": "0",
+            "guid": "aa42dd84-695f-43bf-83c7-747a33c89591",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "massgravel/Microsoft-Activation-Scripts: Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.",
+            "type": "url",
+            "url": "https://github.com/massgravel/Microsoft-Activation-Scripts"
+         } ],
+         "date_added": "13392746990873917",
+         "date_last_used": "0",
+         "date_modified": "13391416375023682",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtEBCrABCIiBAhKpASAAkgGjAQqgAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJA1axpAs2BgARA1axpAs2BgAiNAkA0YakCzYGABADGdR/qqU5hXQpIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkA0YakCzYGABADGdR/qqU5hXQpIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpS/ixpAs2BgASACoYbjMxblhrRFFQWlB1M0pMYVVEVThOUT09SAMS7AEIMRLnAQocNHhlTi9GaXZJR1VsZzB0R1oxMnpkZHltR3U0PRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyMy9vdFhUVnhXM0t2eHJ2ZWxaK3FTV2lSVDNIUFkxNWVOQlpSa0xuSTNoYUNiOHR0S0xjY242RnJIRTNoUmduVmtUVVcydz09GAAgACgAMMHj19m/44sDOPe+1bTUMkD3vtW01DJKHFRKYW1FR3FFMG9OQm1DNDBuRDlBZ05HR2pyRT1aHyId3W9zTFd5b3RHZTFwRldCQm9GRnEvUEVoTzY3MD1lEDD/5BL0AQgOEu8BChxTN2lxTjBtLy94WE5wdy9FNnY1d0tzMitxcVk9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODJrOVY1MExsb3Z0cTNoZXBqZ2g3b0Z6c2ZkVlpxbGJ1L0N5TXFuMGhTeEoyWU85K1dxQ2dWRGM1UU1KSUVHUHRJMFVHZkVnPT0YACAAKAAwoJWvvMqp/wI4rum+sogxQK7pvrKIMUocWS85L0tXeDVoc0NvQVNnSklxZHpOYmVGYVNvPVonIiX/////AAAABNM2QkRna3R3MHNqQ1Q0TnhsQTdaOUVhQmlveFk9ZYXJ/dYS7AEILBLnAQoccTNiRGdPY3RiTW1vMnBTb3ZmVVQ2aFB6dFdRPRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyb1F6ejh4bmlMdktVTU54YlhhTmhWb1BBWTdMQWQzWHRVR3Z2YzYzeisyejhjV0VSN2hLOXE1eCt0MlNQZk9yNWFFVkY5dz09GAAgACgAMJv6hIv8yowDOJ/Mst/YMkCfzLLf2DJKHCtKcUx3RFZaalo1MUltWUJoTEMzWFJQZzNibz1aHyId20EzQnVxOWVZK0VsOWIvMnlscms5UFFPQkhsZz1lFVD5iRLsAQgvEucBChwrQ2VndzlmUXdPeUZaREJBZlRoZjVLU2g1eEU9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODJ4MTViSzZBcW5jdUFJSFBrbCt6NzFMNTJVcjB1QUhHT2pnWWJUUkpYUERRWjhNbUdtVkFRdFV6c3RLQUhkZUZmUU5MZ0t3PT0YACAAKAAwjvW41bWHjQM4ufbysukyQLn28rLpMkocdHBTalRVUmoyYUMwekNISnIxNGpCV3ZMSXZvPVofIh37eFdBKzA2WVV2QkJjMzZQYVpHSC9ncWpXNGY4PWVKxa5DEuwBCC4S5wEKHCswbXQ5R0NtODNiN1k5K0E3OFVuaWw2L0RUTT0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MmpSTkRsSnk3S28zU0hyNmZ3WUVIb0RHZXJ4WmFuTzhuemFNeGFsMXJ4STBIUzFKbDdwUjVINVJnVFM3SDQrS3dTUFgwSnc9PRgAIAAoADCuks+0rumMAzjn5bnG5TJA5+W5xuUyShxBZW5VWTcxak8xTUxRc1A1MWNRR0VUTzQvdEU9Wh8iHfY4WkZIK21EQVJObzBQZjB5cVI2d21YZkZDOXc9ZRDeBwAS9AEIGRLvAQocSjU0QThPSWZKOTdURFNINzExaFpuMFhLa1prPRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyakh5bmhkMXpXYm45d01rZFV0bzNZR1BDcG4xV0VtMm96WGI5Rnh6V05KUmFiVXhFdFFQRnM2bENod2dFaUc5aTROUlJ1UT09GAAgACgAMLOfrK2j/YEDOKyQg/CzMUCskIPwszFKHDRHYVh0VEQ0RkpmRDRuYWdERHVRRWpnMGdyMD1aJyIl/////wAAAAX+MU82MzVGV2lYMm1UZ25MOCtQcElUYS9oWms4PWX6kd7bEuwBCCsS5wEKHG0wU3VOa01wa2hRMEN2ZXNwaWxkaVNUSzB6az0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MkhpVHhvcytJMDNGbk04LzhZZFI1R1M4NjlNdjkwNjJNeXIrSEFPaUxiQXJjdDE5a095UUpwclRZUUZ1eFhiSFREa0FxRnc9PRgAIAAoADD0uKzQlPKLAzjQlLql1jJA0JS6pdYyShxXSStqSzJoUnJqVERXMTEvalRhMlBYdGtRMEE9Wh8iHbZOT1pTY2FGOUVXeXQrWEdjSFAwOG1CWnh5YVE9Zblv+qIS7wEIChLqAQocc0RXa1E4QWk5eFU5bHl5aWNyaHlKNjJxOG5JPRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyemQrRFdScmp4Z0sxNzJzOFZzbE5MUmJ3QlVBMGlFZUlIU1BiQU1pUDNKOUUydkh6WkRuMkFOcUZFMVh5Snd5WERiWHNOQT09GAAgACgAMNSU76Cj/YEDOLn6+ObuMEC5+vjm7jBKHFlKQ0hmL25vdDVHM0QwalNGTjcwOG5ycXN2dz1aIiIg////+21SSGxtbWMyb2Npd1JBYU9XUHBZdkp3SXBVND1lEDD/5BLrAQgqEuYBChxTeXh3STFscFJZVlQrZXBtZnkreDdEZWo0V0k9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODJVclBJNVYrNCsydnhBYmRObi9MUzU5NlhpZzJXUnNXeHdpZGI0N1BXdVlEaUhYbEVRMGM5K2V0ejRwcXJpc0RkcjZBTW53PT0YACAAKAAw2baNsZTyiwM4kbq1pdYyQJG6taXWMkocQkhVZ0FpQmxvRll3c1BrTmFnRWNuaXNXQ2xFPVoeIhxsVzlaVG96UkF6YzRlYlBWNy9pK0w5aEVIVU09ZWLehOMS6wEIKRLmAQocL3RmTWVrcXhsaEFCUUFXdmF1SWJxQ2cxT0JnPRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyWENhT0R2bDhxNU85QW5jdDVVcUVaMU5QbmVhRzdTVUo5LzRsWGp3WHA1RW1Fc0s3ODFsZ0NhOG0wWEQ5eHdFMzhRd3d2dz09GAAgACgAMMXSq6iU8osDOMaCtaXWMkDGgrWl1jJKHFZwUkkyS3hVZW5BU3EzSTBSN2VVbWgxTlZoOD1aHiIcVFY4Z3BPZFhGTW1TeDYwSE4vblF3ckZ2K3U4PWUAAAAAEuwBCCgS5wEKHFBYUWlyTy9Fc25sd2czSmVyM3VkSUlROVpVOD0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MlVzOEpST1paUFN0N25LbjZmUENlU2pwSDg0bmVSMEh4MmpYbnJmSHJucmR6MGNxWHpBZTBpT1A5ZFBTQ292aVovakxPSXc9PRgAIAAoADDssJz4+KqMAzjfpebH3TJA36Xmx90yShxVdzhqRkIvZ0kzZVdEZTFVV2h2eDlWMFVsU009Wh8iHbc2dEpOSVYyMzVoMWxXSklVSUw2akY5alVpb0E9ZaOtHF8S9AEIJRLvAQocSzZzNldHejlNVGFLeC8xTWdiR2lxNEpKc3dZPRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgySWVxM2Q0ZU5pS3ZPeVhZcUhvSUFOOG5MdUw0bTJoOXhwaHE2Z2xCRjNsRkJzWUw5NGdJSWxzTzVtbUJ5YjduaVRiK3pGUT09GAAgACgAMOyHtK6Qo4sDONjlyJbMMkDY5ciWzDJKHHFMWEhLbGVWbjBpQ05wWmpuc3c2d09zcHNMND1aJyIl/////wAAAAf6cDhJeUZVK3h4TUdkRmgvYVRpVlYvY3o3U0h3PWXm6A7SEvQBCB4S7wEKHGxzV1hUMXZuMlQ3TWlSZVo2T2RFQ0tQbFkxbz0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MlZhOHhnMG91Rzk0d2tsTmhFKzYyb3RSUmsvK2xYc0ZyY0pkMzZ1T1g3YlBWbXRqL0RoaG4wR2VqWlcyV0JrNUsvZGtjUWc9PRgAIAAoADCVsYCD2pKJAzjdrOH8nTJA3azh/J0yShxtUUJnZ3Q4SmdlRmljZjJRSUZYUm9kalUzMHc9WiciJf////8AAAAG9k5FYWxFbkpEektkT1JRQmhqeXlzY2NVd2Ywbz1lyPM/uxL0AQgmEu8BChxQVlFvMWZxdnVMMDN3b0lXcVhtSk5KMVd1eFk9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODJPVnVlRlpJL3B4am5lRFZ3SFVpZFRXZFVWc0hxbEt0Ym53eXkxVmtXMkZodUE1SU1TVzkra2liQUpMZ25NVngxdU1jL2hBPT0YACAAKAAwwqa226qejQM4/J2d7+syQPydne/rMkocRGFsN1F0Q0Fmb3dRc3NRUkl3eDFub29sajJzPVonIiX/////AAAAB/0vcW5aYlMzVWZWSzRsVnhzSEk0SjhOM3JkRVk9ZcjzP7sS9AEIJBLvAQocakc4Q0dwdGVUa1ZmRVZNVjNiaTdQZGJ4Qm9BPRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyWmx5OUZieUdmU2hmTXpyanMrQmR0akFmUVB0ODFaVmwwZEhwdzR4SDkwYThkRFFhcWtlanZTaU9xeUIrVnVENk9TdjQyQT09GAAgACgAMIL1oqWPg4kDOKWd3KWnMkClndylpzJKHFpYOFV0aCtmVC9Cc0k3UENrWjVPUHp2OVBIZz1aJyIl/////wAAAAf0SlVsMzdEcmp0amxQU1lxVW5GTWVoMkVuYWFRPWW02NXnEvQBCCMS7wEKHHE0UHNad1QvUEttakpKbXI4QUFJRE9VWFZNaz0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MkVBOVJpR0hNMlIySkF0VzA2aW9YYUxaMzdaaFhIajdEOG9XVEtLYTRBcUJDbEwrQ014TFNmVWVKYjdwekhiUk5JSHFoaUE9PRgAIAAoADCg77qyvt2IAzjo8aO/ojJA6PGjv6IyShxYTXpsUjRPeVNvaXpOUDJvaEpUNTY4WGtMbHc9WiciJf////8AAAAHpTUvc2FzNFc5MGxEVHE0VG5CdjhyMVVuRDZ5dz1lcM6ZfxLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnpDNE9MRFd4eGZuL0o5MnlMNVFFemtUTCtIUnFwVTQvbVh3bnJ4azFCdGFwQXNoZ0NNaTFHVHk5SFhPa2tJSmwrT1BhTkZSYWN4SHA4ZGkvSFhuclN0bHNhcjZnPT0YACAAKAAwgKKbpLrBjQM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLzAQgiEu4BChw5RW56WUh2empuajZUQ0xmanppMThyZHQvZjg9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODJ1QnZZc05yYjhMbVA5NWQyYUJ3Ynp3ZUk1Z01BN2xmazQxSWZ6TXYxY1hSK1V1RnpWdlJZQTFMWENyWXM0eFBTeEFWQUN3PT0YACAAKAAwiu+SrbjdiAM4md/AvqIyQJnfwL6iMkocZmJVUVhpdlg4OUNrbTU5cWxNTHIzV2xhU0ZJPVomIiT/////AAAAB0pGbnRIdWNXOVkxa3Q5cTMyOUIxWUNkbkFtOD1l3GBjcRL0AQghEu8BChx0bDMvUGExMHMwTkZINEFjMlhrQ2pPMDlkWkE9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODJ0YTBGRlpjMU0yZmtiTWtXYzJ5UDF5Z3VacGV4U3VtNHdoRWpMU2NmK215WFR6bFNtR3J5cGczYkNxcHFJODlmQ2pha05RPT0YACAAKAAwqZ3HzZzYiAM4m8SE6aEyQJvEhOmhMkocVUZKUWFaZ0tYb2hzeFI4TEpVcjc4ejBkVmlZPVonIiX/////AAAABv5LckQreDBZVG9pSkRsTzZ1NXVtWjRrTHlWYUU9ZdQPurwS9AEIHxLvAQocaFptOWRVUUk2TnpIZ1ZmZHltSHo0N1Bia0l3PRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyUzRLSmg2RXhrRjFPdzFOS1gxOURDR2Qxa3lBOXVzcUhzK01wRzVFYlNiUS93S2tJU2gxVzg3akttcDZEb2s3OG5HY09qdz09GAAgACgAMMX+veb2yYgDOKuinvSfMkCrop70nzJKHC92N1ljaU45MXQxVUNEQUo1N1RiZG95OWhtST1aJyIl/////wAAAAb7c1FLd2VPekFmcDFLUVFzNnNWOXJLTGZSMnBBPWUT/AgbEvMBCBIS7gEKHFd0cW5laDRCK0hHdlcwY1hUanhjeEU5M2luND0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4Mm9CdW1EY1hXaEdxbGp5dklQTDZPcXh2Tjl5VlVKbjd5K0l1WmtkNmp3MXpwaVZYSVlXSlQwbCtEUElld0xHbGxEWHlROEE9PRgAIAAoADDh6M7+naqJAzin6aTqkDFAp+mk6pAxShxMejN6UkR6UER5eFdEa0l1RFkwK0xDd2dQdVk9WiYiJP////8AAAAFZnNISkxwemNQMHhSbnFzZ0NFdzVSSWVKeXZJPWV3iSLtEvQBCBgS7wEKHCtaaThaUkZRbXpIb01teUNvYjIvYkFrZFRJWT0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MlliOXpNTHFGQ2Fobk1mdW5ua256bm9TNUk5eFYwd1duUlk0ZFdIby9WRDhTR0dMdWVybVc3TnhUSDJMSWJpdG9CMjduT1E9PRgAIAAoADCk2eCs8uGBAzjr0rOvsDFA69Kzr7AxShxmU05ETXdSS0RqUmhveXdkTlpnN3ErOWRHL3M9WiciJf////8AAAAF/TZ3UGRBSlNnQ1VpK3RBNVVaYzNYQ2c2OXpYZz1lmMTrahL0AQgcEu8BChxIMlJpN1VubExOV3M2VW5yQkppV2NLSWVBd2M9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODIyaTJhdHNFdjBnc256UzR5OTRta2pWekl4cWpqUXFVd0VOVDFCZXA3aFRCeWNGSGtyeWx4aTVzQkV4RVFSUG94YmtZUVBnPT0YACAAKAAwkoO9oJvKhQM4//yD8O4xQP/8g/DuMUocTXdtRVZvTVF1YS9PdkVDYkNMbmVMQmp1UW84PVonIiX/////AAAABthDMm50bGk5T3YrNWFTU1ZqQnYvMVNLd2svckk9ZbxvPAkS9AEIGxLvAQocWHJPYUREU1dUV3IyMlFwckpWdUNiZ3hqeEtzPRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyYmRhSXNKb2x5bHZIR0FIYVRzdWdUWjJ3WUJETjNOekpscE9FeXFuUWg3WEFDV2FRSng5c3MrVVd6SDNhN0ltMHBkNXpEUT09GAAgACgAMKvXxYO8sIQDONC/i5nbMUDQv4uZ2zFKHDIwbzA5dDV0M2NjYVRzekdlWWtXdHV1WXR1UT1aJyIl/////wAAAAaxNWQwRHh2bVhiNzVyVHY4ZDZFeDJlQWduOEtRPWWXrv6DEuwBCDAS5wEKHG8xS09JVzl1Z3BlWWJ2QzdXVWdiaVlVU0IwVT0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MnU0S0didXFQK3habzdnQW1sL3FDMmhEaE00NVdDZnlYTGt4TVowVlYxaHU4TzRGMTIzT1ZNb3VzZmZmWThlUGcrZDh0aFE9PRgAIAAoADCTy/rVj4yLAzikpJOFtDJApKSThbQyShwxWlpHUmdCY213VG9GZDNzS05LZGh3dm1oSGc9Wh8iHbpJYlV6Y1BaOGJIRWlYQkNmemZwNHV5MVYxOFE9ZfC1HdUSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp3anFQb2hXMkQyUmhKMnJvV0hTMTR3SEhrcnY3ZnJFNlRnb2Y3K3FwTm42ZkhaS1JvQ0xoWXhHMHNOZkdiMmJKd3VtemtNGAAgACgAMICim6S6wY0DOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS9AEIHRLvAQocbU5CQUJYcjRYTTlmZFBDVjJaMjZ2aEpNaEN3PRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyMXVHaUwwUnczVjBMZ1BTdjRjZ1oyVlRza0ttZUdmNEtVZHdhZEo4UlF4WklhZ0pUVis4SVdjT0FnekpSRVRCcjZLVExMUT09GAAgACgAMKi8lb6cyoUDOKSUmPDuMUCklJjw7jFKHG8vdkVVWDh3aFd4VjhCREg1Z2M3eUxySDJwZz1aJyIl/////wAAAAbsNGtrQ3gyQldJcG9mTnp5RTJ0aWlTUW50dFNZPWU31+A9EsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeGRuTzBSelR0Y1ArVWx5dFNzekIvUDlqNXhBcU45TXptWXRHNlVDbWV4Uklaa0xlYUZyckQ5cWNxVkUvV0JQMVZ3MFFTSXNORzI3NFo5c2dIaGRMWThDcUhlaGc9PRgAIAAoADCAopukusGNAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEu8BCAgS6gEKHHZEWHB3czVFREdGTXdkVTVDNmRSTnc3TXhPWT0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MkFZVmFrUnFKMHhObmpESVcra1FkYVIwcW9FNzJwQ0IvZHVPWUtDc2RTSnBYaEp6VmI5YTdSZTVsNFpibk5PbzJBbnMrWkE9PRgAIAAoADCG/f3hwZ2LAziwi9zj6DBAsIvc4+gwShxGVzlNQnJINm51WEpaNnJJM0JMVUJvYWVPMW89WiIiIP///91rdW1ER1pMb0Q5VzhVdmtIM052T3U3azg5VmM9ZRAw/+QS9AEIFRLvAQocNlR0U1JpUDVKNEd6V1JTVEFNT1k0NUwvM1c4PRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyQUQ0VlVYa29OcE1XTTJmSHYxVUw3dG50VVo3NHVEUmZ2bmxEYkVtbmJJTjZjMVgwcGlGbEtrUW50ZVZDekpnYjRyem9oZz09GAAgACgAMMbuwK/+yYADOPL+yPacMUDy/sj2nDFKHFo1VVBqN3Zzck93dGJDckUwOFYrc0JxSUtNdz1aJyIl/////wAAAAXsYi9aL0VJVXpyL1E0UGNsMkJkZ2dDNGwrVE4wPWWdmjo9EvMBCBoS7gEKHHQwOEJLQlMrZkE0d1ZWZ2RLSHVsUHRMamRaND0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MktlZmdQK3E1RnpmS0ZTT283d3JPQ3RyZitJclN0WFdqc0JFZTBPN1ZYZ0pNNkEzTzVzd0xEZlJ3ZnlnNDdSWXVMR2c4Q0E9PRgAIAAoADCvp4br34SNAzj0tvXdtDFA9Lb13bQxShwxR1BjYVdaanRzVzN5eUppNklFeXk3bld5Yzg9WiYiJP////8AAAAGYnorcHZtWE53SHBaeWVDb2lKbDBEQ1p1NkpBPWWIPIgmEvQBCBES7wEKHDFwTCtNV1JvQXMvQWx0c3JhSzUzQWFkT2M5UT0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4Mk1Oc3JUUjNwSThibkxFRWNteVREVGx6aVVYWkY4aDVNN2J3dVY3bWR2Yk1LS1QxaWxBbHB6K1hESFRFa0pBbG83YkQ2b1E9PRgAIAAoADDHwLGz2L3/Aji3kfr7ijFAt5H6+4oxShwyb1BUZC9LWERPaW9UemQzdWYyWmNRbG45M0U9WiciJf////8AAAAE/WZDTEhYNE5aaDhKQzg2dC93Y2pwMmliUTRiST1lOqsMlBL0AQgXEu8BChxBUGZwODhuaWR5MWxFRS92STNSYWZtV3AvQVE9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODJLTzRKcTdTQkhhZUNTdDFVRWM0bGYvZUIrbnhmVDJQR2RBR2JBZ3RSOVlIbkdkOE11WGo2TmI3NnBzUW9BSXhvUDdVNVZ3PT0YACAAKAAw8Kja5r63gQM4mdfW+KoxQJnX1viqMUoccGNXK01NTkozNHliRXg4UFdXSFJHWTlrQ1RNPVonIiX/////AAAABftiZUdDR0V2aHV1MzRVNzZ4bXc3UDZwWS80QjA9ZZagdmIS9AEIDRLvAQoccnorV2NtbVNCaEJDdE9QV05SRjBVUGhjSzE0PRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyU1JERzdheGFOanhZeGV0Q3AvZ3luaUNON0ZONFhZaTl4bTdlcDhQMTVVN25sbStMMCtIb203UFZSNmZpWFlUTWdycm5JQT09GAAgACgAMLS8xt3hj/8CONztvYuFMUDc7b2LhTFKHEMzNFk4NFFOYzVodUpRcVdxWk0vZlF3bFd4bz1aJyIl/////wAAAASmNHpYTFdFS01zVVBabm1OSWtRR2duSERQUllzPWUAWQm8EvQBCBQS7wEKHElOQWJaeGI2aHBJbmxxVW9xZUJqc1lmcHlmMD0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MlpIYVBvblF6ditGVFBmdWplc1dBRlRSZEdVdGt6KzB4S2NQREdtV2FHcmtzbjlQOGNBMWI1djFEd2ZEVFNNdUw5OUk5Z3c9PRgAIAAoADD9ltjz66mAAzjaw/TnmDFA2sP055gxShxiTEdqSXZiUXJuQ20vSlduSVFGVlNHdlM4bDQ9WiciJf////8AAAAF2Th6VTkwekpkNlBiYk05OU03a3NrQnNXL2hwRT1lwsN7URL0AQgPEu8BChw2MisxaWd1a3FqRUhCYWcvVjM0MFgxYzUraEE9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODJUL2U2RlNHalRoQXFub1hVUjJYd2hjdk9lK1Z2SFA5QlU1U1FXQ0JYUnRtSThRZFRXMlFrcGdhYXhJbjRQNFZKWTZvVmp3PT0YACAAKAAwuMLmsZqr/wI4pauNzYgxQKWrjc2IMUocdjNjYXQrZ2lDMHpjemlJN0FKQ1RybDhETThjPVonIiX/////AAAABOlGMExXVzhrUWtTSjZDNFN1c1VXQzdQM2ljM289ZYXJ/dYSrQIIBRKoAgocOHpzVXhBVm81R0pRV2Q2MGJlb3R0aUFBdHBvPRKmAVo6QURxdEFaeWtqa3ZGQzNvRE05OGdiT2phNStTbnlaY2E5bkJXZDR4aHBsQkQzdlpxY2Z0RjU5RzlFblZMVTdSVzlDYUdlMjJ1WWdoYXU5WUxNcGtRZGNMc3ltdHlHcURPRkFMbFZJR2ZOVDYxdktNV0szVXNMdDZEOVVDQTUrMGVPSS9TK1FZZ1BJcklQajJmcHc5dXVrZmxpZ2RrNzNUTmpRPT0YACAAKAAwhf3hoMbh+QI49IXtiscvQPSF7YrHL0ocVlN5YnZmZFc0b2JKWjVGMnRyU3VodFZJby9JPVofIh33dWQ3d285VWVPV2RhMStmY2t1Sml6MHVhMXY0PWVrUaYlEuwBCC0S5wEKHDRIVjBBYTdaVkx4SE9pTHorYUZIYm5tOHBzYz0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MmloZ3pzNVQzTHFUeFMwSDhBd2ZleTZTTHcySTFwaS85TWhjYmJIcVdkRXJaNXMrS3FmZ0VuSHp6WUVyK2YzQ3puTmZuVUE9PRgAIAAoADDY6sDYwMuMAzin4KHd4TJAp+Ch3eEyShxxRWpvRzlQSmU2YWJHUU9yS3NqcXV2NnNSMmc9Wh8iHe05TkdPVk9YakxQTWJia0U5aFIvT3NETFFLSk09ZaOtHF8S7wEICRLqAQocYzMvc1pLNjJJcmlsSnh4VHZLWkI5WHEzd2RNPRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyWCtLZnVDTjV2QTJYUFZlOG1xQmtlNUFDRGlrZ0JhYVIzNFJSYkU0OUswdnhGSDd0QkdLcU5vNDg0Z0pkRk5YcURnOHQxQT09GAAgACgAMKHGl+66u/0COMLhjPXpMEDC4Yz16TBKHDJIbDU3ekdYc0dXRUVZVGhQNUdIR2lSS1hjbz1aIiIg////7nkyYzV1VXk1MnRLbDZQNG4xRmh2eGNHOXVPUT1lXb5q+RLsAQgyEucBChxrYVlMMHYwSWhScHNuejJBU1NGWVZpNVY0d2M9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODJvbFZ0MWYyaGptYnQwRCtKM3prR25VbHdXdS8zaGdFZklQVEVBMTYzZWNwbGF5OE9UV3hTUm5XRzFIbFV3SGp3TTQ3b1hBPT0YACAAKAAwicPlofL4jAM4t4jyxOcyQLeI8sTnMkocRGltdyswK3g5M01PNjZ1YkM1TVhkYlRzWVl3PVofIh3uc21YRVNSdjdMejIyZklaQkI4Y2xXK0p0eHZnPWXDuyXaEu4BCAcS6QEKHFhpZVM3d1h2N2c0L1cyay9MSDRSU3QxVjFVdz0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4Mm01MnU3YVVUWjdQdVM0cUdjOW1YdldackJxS0lZSkVWUHI1L3N5ZlhkYloyTHZQMXlHY0dTeE9OZzR3bER0am9vNDdKRWc9PRgAIAAoADCIh6Go9rv5Ajisko24qDBArJKNuKgwShxQQ2E4SzczQ0lXMjdOVTI4UkNZdHEvNE1yYXc9WiEiH////UFBT2FjbTRTNXRLL1h6Yzg4czllOTYwOFI2dz1l407gtRLuAQgGEukBChx1NVBsaE94aW9RdHlrRUZyMXRYeC91TWtoMnc9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODJKSUo2WnJtU2QwSGkxWjAyV1Q2L2JyQThnOTQ2cHNoQWpNQU9EYzhNSHZ6RERhY0svbjBpZENUUlJjdU1UbGUrU3dQWU9RPT0YACAAKAAw0IfIsMfo+AI4x/bNyp0wQMf2zcqdMEocTHBRN0xwY3lLWHpFMGl1MkoxUkRlUTdzSWQ0PVohIh////dGVnVsRURneGJPUUZzQ1YyVldNWGxzTGU5RXc9ZYb4rkcS9AEIExLvAQoca1FVSzJGL2IrODByb1RTUHdKSmpuSnJzbGFRPRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyZmJMZ1dadnhjOXJZVkZyZVBNR1lQeG9Ic050UzVmb3p3ZXNYTEQrcWJLcHVmTG52SUk5UHFLaUY3WEMzNVpVbDlEaHhCZz09GAAgACgAMM/YhuvqqYADOKPN5OeYMUCjzeTnmDFKHG1IZ1B3LzBDZHZWbXhlOWdHdTNyV0NnajA5bz1aJyIl/////wAAAAWzNmRhQVRDTjZLMm91M1BDUFRqUkJnOXZaZkJFPWXscQU9Eu8BCAwS6gEKHFBvNlIrNitublRFREtHMnliR29xUzlVeXNQZz0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4Mm1zaTdUK090a2l0Vi9mVGNGYnE2MHFtYklFOCtnUzVXbVNia05kWitGQzE2Sm1JWVV1bGZESmtFRU1kYkpQOXZaZWdvcVE9PRgAIAAoADDS4b6J+qyMAzitu/D8/DBArbvw/PwwShxydDJPdlI3LzZYVUpWVTR0S1l0SERVM0lNaHM9WiIiIP////51TVp0eDNIbFMwK2lGeG9PUmNVelpkWFlCUE09ZdSM7PIS6wEIJxLmAQoceVdDd0JNanVFajVYSjhUOXZGZkw5M3FPNUFzPRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgyOXhNWXNnK2VLOFpPNS9ZWjBpdkJMNXA2cThSMmk0ejlwb2krNGEyWG9OU2oyY0RIMzZDWnRSNmlpU3YvWnNlc1Bpd2VLUT09GAAgACgAMJWxgIPakokDOLqxmKaYMkC6sZimmDJKHFczQnRMeVFnWWFqbDFMU21wckN3VHpRaXE3MD1aHiIcbng4WDhyT3dqeERuS0xzQlBXL1dNT0RDZklzPWXI8z+7EvQBCBAS7wEKHHFEU2RJVWtlSVMybGorS1lYMFNUSlg2RHBtbz0SZlo6QURxdEFaeE9CajJnLysycmtRcS94YnVFSnY4MnJsUDNoN0FGblBXeWRlZXB5NjdUOEpOZHV0YWdlSnk2WHVpenlJa005OHdiR3RCN3ZyL0o1Sy9GdjNISUgyR1dqTEsrdHc9PRgAIAAoADCo7rrwlq//AjinvZiOiTFAp72YjokxShxGd0kvcnhYR1g1Unk3cmI5NVhWMXArSmUrZkU9WiciJf////8AAAAE+jR1cmlvT1hYeGltYXZPMDlLb2NJUEhPeXJQOD1laFPcIhL0AQggEu8BChwrK2pJdm9XcmRxcW1UVXlXTEdWSlNwSFAzUzg9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODI2czNLajF4TkVudHFHTVQzOFhmWDB4NnphZG9ZWW5GL3h2ZUJYYXE0Z2dBRmg1S1hqSmJsZnRnOGI1T1ZFdTU4eENYcTFRPT0YACAAKAAwlISgv87OiAM44vLEx6AyQOLyxMegMkocM2hFa01OaHEwNmJsaDJyY2I1aGlMRG9yeWdBPVonIiX/////AAAABv1Uc2dVa0VUbEx5bTU2ZHUvS2tBMmZpZk9kVms9ZesAjS0S7wEICxLqAQocd1JVeGZXOUQxQ1ZleVR5akNwWDVEdlFTL0I0PRJmWjpBRHF0QVp4T0JqMmcvKzJya1FxL3hidUVKdjgydGVLck1FaWV0VW03cUZuQ2ZhSzdYRUlaeVZRRERvRDBTelI4WEg4VWJEd2ozbWpzUXE1UXc0NUhOK3VmN0YvQWo2Yk5Edz09GAAgACgAMPuV4ob7rIwDOKfLprfvMECny6a37zBKHGRTaVpkQ0I0VmdabWtCTWxhSGthNzJ0bSt0MD1aIiIg/////XgvYjMyQ1VrQ3czVHFZdWJqM3I3aXFLSHlKcz1lAAAAABL0AQgWEu8BChx5TU5BREs1Q0UyOVhneEV6dC94cUhaN3piTTA9EmZaOkFEcXRBWnhPQmoyZy8rMnJrUXEveGJ1RUp2ODJ0WHJ2RndzWXhiSUFhUlZNaXhiTHFVcStMY1U4TitIQld2YjBFdDVVeTJXREY4amlhNHBZRzFLcVEveWlDM3FOdDRvREV3PT0YACAAKAAwm5KN4tz5gAM4wIDAgqMxQMCAwIKjMUocMTg1bHRsUjBjaU9aMm5uTmZLV25VNE1HcEcwPVonIiX/////AAAABfZBOS9mTlZoUU8vUDNVM3lYMVVNV1FuMFBrNWM9ZbgRPAMwATgA",
+   "version": 1
+}

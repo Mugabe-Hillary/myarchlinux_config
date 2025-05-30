@@ -1,0 +1,16 @@
+2025/05/29-16:15:15.715 722 Reusing MANIFEST /home/amhillary/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/29-16:15:15.716 722 Recovering log #74
+2025/05/29-16:15:15.724 722 Reusing old log /home/amhillary/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000074.log 
+2025/05/29-16:15:15.724 722 Delete type=2 #71
+2025/05/29-16:15:15.724 722 Delete type=2 #72
+2025/05/29-16:15:16.132 730 Level-0 table #80: started
+2025/05/29-16:15:16.196 730 Level-0 table #80: 610 bytes OK
+2025/05/29-16:15:16.312 730 Delete type=0 #74
+2025/05/29-16:15:16.314 734 Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at '\x00\x12\x00\x00\x05' @ 5968 : 1
+2025/05/29-16:15:16.314 734 Compacting 1@0 + 2@1 files
+2025/05/29-16:15:16.606 734 Generated table #81@0: 2112 keys, 2153367 bytes
+2025/05/29-16:15:16.949 734 Generated table #82@0: 793 keys, 2014430 bytes
+2025/05/29-16:15:16.949 734 Compacted 1@0 + 2@1 files => 4167797 bytes
+2025/05/29-16:15:17.037 734 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/29-16:15:17.038 734 Delete type=2 #80
+2025/05/29-16:15:17.038 722 Manual compaction at level-0 from '\x00\x12\x00\x00\x05' @ 5968 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)

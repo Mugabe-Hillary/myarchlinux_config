@@ -1,0 +1,138 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 32,
+    "spacing": 8,
+    "margin-top": 8,
+    "margin-left": 12,
+    "margin-right": 12,
+    "modules-left": [
+        "hyprland/submap",
+        "wlr/taskbar"
+    ],
+    "modules-center": [
+        "hyprland/workspaces",
+        "clock"
+    ],
+    "modules-right": [
+        "tray",
+        "memory",
+        "cpu",
+        "network",
+        "pulseaudio",
+        "mpris"
+    ],
+    
+    "hyprland/workspaces": {
+        "format": "{icon}",
+        "format-icons": {
+            "1": "󰲠",
+            "2": "󰲢",
+            "3": "󰲤"
+        },
+        "persistent-workspaces": {
+            "1": [],
+            "2": [],
+            "3": []
+        },
+        "on-click": "activate",
+        "sort-by-number": true
+    },
+    
+    "wlr/taskbar": {
+        "format": "{icon}",
+        "icon-size": 18,
+        "tooltip-format": "{title}",
+        "on-click": "activate",
+        "on-click-middle": "close",
+        "ignore-list": [
+            "Alacritty"
+        ]
+    },
+    
+    "hyprland/submap": {
+        "format": "{}",
+        "max-length": 8,
+        "tooltip": false
+    },
+    
+    "clock": {
+        "format": "{:%H:%M}",
+        "format-alt": "{:%A, %B %d, %Y - %H:%M:%S}",
+        "tooltip-format": "<tt><small>{calendar}</small></tt>",
+        "calendar": {
+            "mode": "year",
+            "mode-mon-col": 3,
+            "weeks-pos": "right",
+            "on-scroll": 1,
+            "format": {
+                "months": "<span color='#a6da95'><b>{}</b></span>",
+                "days": "<span color='#cad3f5'><b>{}</b></span>",
+                "weeks": "<span color='#8aadf4'><b>W{}</b></span>",
+                "weekdays": "<span color='#f4dbd6'><b>{}</b></span>",
+                "today": "<span color='#f5a97f'><b><u>{}</u></b></span>"
+            }
+        }
+    },
+    
+    "tray": {
+        "icon-size": 18,
+        "spacing": 8
+    },
+    
+    "network": {
+        "format-wifi": "󰤨 {signalStrength}%",
+        "format-ethernet": "󰈀 Connected",
+        "format-disconnected": "󰤭 Disconnected",
+        "tooltip-format": "{ifname}: {ipaddr}",
+        "tooltip-format-wifi": "{essid} ({signalStrength}%): {ipaddr}",
+        "on-click": "nm-connection-editor"
+    },
+    
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-bluetooth": "󰂯 {volume}%",
+        "format-muted": "󰖁",
+        "format-icons": {
+            "headphone": "󰋋",
+            "hands-free": "󰋋",
+            "headset": "󰋋",
+            "phone": "󰄜",
+            "portable": "󰄜",
+            "car": "󰄋",
+            "default": ["󰕿", "󰖀", "󰕾"]
+        },
+        "on-click": "pavucontrol",
+        "on-click-right": "pactl set-sink-mute @DEFAULT_SINK@ toggle"
+    },
+    
+    "memory": {
+        "format": "󰍛 {percentage}%",
+        "tooltip-format": "RAM: {used:0.1f}G/{total:0.1f}G ({percentage}%)\nSwap: {swapUsed:0.1f}G/{swapTotal:0.1f}G ({swapPercentage}%)",
+        "interval": 3
+    },
+    
+    "cpu": {
+        "format": "󰻠 {usage}%",
+        "tooltip-format": "CPU Usage: {usage}%\nLoad: {load}",
+        "interval": 3
+    },
+    
+    "mpris": {
+        "format": "{player_icon} {dynamic}",
+        "format-paused": "{status_icon} {dynamic}",
+        "player-icons": {
+            "default": "🎵",
+            "mpv": "🎵",
+            "spotify": "",
+            "vlc": "🎧"
+        },
+        "status-icons": {
+            "paused": "⏸",
+            "playing": "▶"
+        },
+        "ignored-players": ["firefox"],
+        "max-length": 30,
+        "tooltip-format": "{player}: {artist} - {title}"
+    }
+}
