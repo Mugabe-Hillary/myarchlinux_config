@@ -1,0 +1,14 @@
+# .gitignore
+pavucontrol.ini
+pulse/
+user-dirs.*
+yay/
+spotify/
+google-chrome/
+chrome-flags.conf
+dconf/
+systemd/       # Only if no custom units
+xfce4/
+nwg-bar/
+nwg-wrapper/
+
